@@ -1,6 +1,7 @@
 # Olá! Eu sou a Andressa 👋
 
-🎓 Estudante de Engenharia de Software e Redes  
+🎓 Engenheira de Software e Redes  
+👩🏽‍💻 Analista Noc
 🔍 Explorando desenvolvimento, redes e cibersegurança  
 💻 Apaixonada por tecnologia e sempre buscando aprender mais  
 📚 Certificada em Redes e Cibersegurança pela Cisco  
